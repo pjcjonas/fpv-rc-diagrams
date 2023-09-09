@@ -52,6 +52,16 @@
 ## GEPRC Naked GoPro 8 Case BEC board pinout button diagram 
 ![Tux, the Linux mascot](./assets/GEPRC-Naked-GoPro-8-Case-BEC-board-pinout-button-diagram.jpg)
 
+## GEPRC StableF411 Phantom mini stack
+![](./assets/geprc-phanton-stablef411-1.jpg)
+![](./assets/geprc-phanton-stablef411-2.jpg)
+![](./assets/geprc-phanton-stablef411-3.jpg)
+![](./assets/geprc-phanton-stablef411-4.jpg)
+![](./assets/geprc-phanton-stablef411-5.jpg)
+![](./assets/geprc-phanton-stablef411-6.jpg)
+![](./assets/geprc-phanton-stablef411-7.jpg)
+![](./assets/geprc-phanton-stablef411-8.jpg)
+
 ## Geelang Kuda 85X Pusher Whoop fc manual rotated 
 ![Tux, the Linux mascot](./assets/Geelang-Kuda-85X-Pusher-Whoop-fc-manual-rotated.jpg)
 
